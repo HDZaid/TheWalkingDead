@@ -2,7 +2,7 @@
  
 ## The walking dead es una de mis series favoritas por la accion y la narrativa que se maneja, 
 
-### si se que no es la mejor serie de todas, pero pues es buena no mas cir 🤣
+### si se que no es la mejor serie de todas, pero pues es buena no mas 🤣
 
 :rolling_on_the_floor_laughing: 
 
