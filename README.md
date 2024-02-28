@@ -32,7 +32,10 @@ https://www.google.com/search?client=opera-gx&hs=k5P&sca_esv=4fbfcb9c8f0bb25b&sx
 1. Temporadas buenas:
    - la temp.4 creo que fue cuando
    - la temp.6 cuando vencen a NEGAN
-      -la temp. 11 que fue cuando la serie termino
+     -la temp. 11 que fue cuando la serie termino
+      * la Temp. 1 que fue cuando inicio
+      * la temp. 3 en la pricion
+        _la temp. 9 con los wisperers 
 
 # enlace a informacion de la serie : 
 
