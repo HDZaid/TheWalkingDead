@@ -40,3 +40,19 @@ https://www.google.com/search?client=opera-gx&hs=k5P&sca_esv=4fbfcb9c8f0bb25b&sx
 # enlace a informacion de la serie : 
 
 https://es.wikipedia.org/wiki/The_Walking_Dead_(serie_de_televisi%C3%B3n)
+
+
+> [!NOTE]
+> PROBANDO UN FUNCION 
+
+> [!TIP]
+> EXTRA QUE VI EN LA DOCUMENTACION
+
+> [!IMPORTANT]
+> DE GIT PORQUE NUNCA LA 
+
+> [!WARNING]
+> HABIA USADO ANTES Y 
+
+> [!CAUTION]
+> ME PARECIO INTERESANTE 
