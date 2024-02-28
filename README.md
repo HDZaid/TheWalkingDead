@@ -2,7 +2,13 @@
  
 ## The walking dead es una de mis series favoritas por la accion y la narrativa que se maneja, 
 
-### si se que no es la mejor serie de todas, pero pues es buena no mas :rolling_on_the_floor_laughing::rolling_on_the_floor_laughing:
+### si se que no es la mejor serie de todas, pero pues es buena no mas cir 🤣
+
+:rolling_on_the_floor_laughing: 
+
+:rolling_on_the_floor_laughing:
+
+🤣
 
 ## ENLACES DE PRUEBA: 
 
@@ -19,10 +25,12 @@ https://www.google.com/search?client=opera-gx&hs=k5P&sca_esv=4fbfcb9c8f0bb25b&sx
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
+ 🤣
 
 ## LISTA ANIDADA 
 
 1. Temporadas buenas:
    - la temp.4 creo que fue cuando
    - la temp.6 cuando vencen a NEGAN
-      -la temp. 11 que fue cuando la serie termino 
+      -la temp. 11 que fue cuando la serie termino
+
